@@ -1,2 +1,0 @@
-# SimpleGridExample
-Created with CodeSandbox
