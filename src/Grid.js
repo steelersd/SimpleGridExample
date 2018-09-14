@@ -18,7 +18,6 @@ const Grid = styled.div`
     display: inline-block;
     padding-bottom: 100%
   }
-
 `
 
 export default Grid

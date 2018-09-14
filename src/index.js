@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import GridContainer from './GridContainer'
-import Grid from './Grid'
 
 import "./styles.css";
 
@@ -14,7 +13,6 @@ function App() {
         <div></div>
       </GridContainer>     
     </div>
-    
   );
 }
 
